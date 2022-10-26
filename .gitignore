@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+IK_DATA.xlsx
+MF_DATA.xlsx
